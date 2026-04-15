@@ -89,8 +89,3 @@ python3 threads/02_locks.py
 python3 processes/01_process_pool.py
 # etc.
 ```
-
----
-tested on Python 3.11+
-
-<!-- yolo -->
